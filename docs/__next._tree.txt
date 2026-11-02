@@ -1,2 +1,2 @@
-:HL["/kaiun-buff/_next/static/chunks/3e4119pujob84.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"cVvSDzEkwrP5BIQb458gR"}
+:HL["/kaiun-buff/_next/static/chunks/1c6q4m7rdc2vm.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"2E7_j2FwSRDr_jVpMPEKc"}
